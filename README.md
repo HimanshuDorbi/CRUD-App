@@ -41,9 +41,9 @@ npm install
 
 ```
 
-Before running the server and react app, please setup Mongodb connection from Mongodb compass
+Before running the server and react app, please setup the Mongodb connection from the Mongodb compass.
 
-# go to MongoDB compass and paste
+# Go to MongoDB compass and paste
 ```
 mongodb://localhost:27017/crud-app
 ```
@@ -58,4 +58,7 @@ npm start
 ```
 tip(use the split terminal to see both running...)
 
-
+## If any error while running, please mail me at
+```
+dorbihimanshu306@gmail.com
+```
