@@ -47,6 +47,7 @@ Before running the server and react app, please set-up the Mongodb connection fr
 # Go to MongoDB compass and paste
 ```bash
 mongodb://localhost:27017/crud-app
+
 ```
 and click Connect.
 
