@@ -49,7 +49,7 @@ Before running the server and react app, please set-up the Mongodb connection fr
 mongodb://localhost:27017/crud-app
 
 ```
-and click Connect.
+and click Connect. It will show users collection inside your crud-app MongoDB database.
 
 
 ## Now run the server and react app by command
