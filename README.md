@@ -41,6 +41,8 @@ npm install
 
 ```
 
+<br>
+<br>
 
 Before running the server and react app, please set-up the Mongodb connection from the Mongodb compass.
 
@@ -49,8 +51,10 @@ Before running the server and react app, please set-up the Mongodb connection fr
 mongodb://localhost:27017/crud-app
 
 ```
-and click Connect. It will show users collection inside your crud-app MongoDB database.
+and click Connect. 
+It will show users collection inside your crud-app MongoDB database.
 
+<br>
 
 ## Now run the server and react app by command
 
@@ -60,7 +64,10 @@ npm start
 ```
 tip(use the split terminal to see both running...)
 
+<br>
+
 ## If any error while running, please mail me at
+
 ```bash
 dorbihimanshu306@gmail.com
 ```
