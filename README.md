@@ -28,11 +28,11 @@ cd client
 # Install dependencies:
 npm install
 
-
 ```
+
 ## Backend 
 
-```
+```bash
 # Navigate to the backend directory:
 cd server
 
@@ -42,10 +42,10 @@ npm install
 ```
 
 
-Before running the server and react app, please setup the Mongodb connection from the Mongodb compass.
+Before running the server and react app, please set-up the Mongodb connection from the Mongodb compass.
 
 # Go to MongoDB compass and paste
-```
+```bash
 mongodb://localhost:27017/crud-app
 ```
 and click Connect.
@@ -54,12 +54,12 @@ and click Connect.
 ## Now run the server and react app by command
 
 
-```
+```bash
 npm start 
 ```
 tip(use the split terminal to see both running...)
 
 ## If any error while running, please mail me at
-```
+```bash
 dorbihimanshu306@gmail.com
 ```
