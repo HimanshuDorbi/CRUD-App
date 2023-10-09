@@ -4,8 +4,19 @@
 
 This is a CRUD (Create, Read, Update, Delete) application built with React js, Nodejs, Express, and MongoDB.
 
-## Prerequisites
+<br>
 
+# Project Demo
+
+
+
+
+
+https://github.com/HimanshuDorbi/UcliQ-assignment/assets/105678703/0c336137-d80a-405a-97f9-7b952ae1c6a6
+
+<br>
+
+## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 - Node.js and npm installed.
