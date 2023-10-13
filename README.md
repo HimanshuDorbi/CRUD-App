@@ -1,4 +1,3 @@
-# assignment-crud-app
 
 # CRUD App
 
