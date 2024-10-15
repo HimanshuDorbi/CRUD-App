@@ -34,7 +34,7 @@ const storage = multer.diskStorage({
 });
 
 const upload = multer({ storage });
-
+//prabhakar joshi is my senior
 // Create a new user
 app.post("/api/users", upload.single("profileImage"), async (req, res) => {
   try {
